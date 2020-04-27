@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 
 public class Mediator implements IMediator {
+    // Stores all the people the mediator has to interact with.
     private ArrayList<User> users;
 
     public Mediator() {
