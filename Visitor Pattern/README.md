@@ -17,6 +17,6 @@ and the logic of algo resides with the visitor.
 
 ### Links for Better Understanding
 
-[https://refactoring.guru/design-patterns/prototype](https://refactoring.guru/design-patterns/prototype)
+[https://github.com/VamshiIITBHU14/DesignPatternsInSwift](https://github.com/VamshiIITBHU14/DesignPatternsInSwift)
 
-[https://www.journaldev.com/1440/prototype-design-pattern-in-java](https://www.journaldev.com/1440/prototype-design-pattern-in-java)
+[https://stackoverflow.com/a/51567536](https://stackoverflow.com/a/51567536)
