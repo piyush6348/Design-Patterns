@@ -4,7 +4,7 @@ import Fly.IFlyBehaviour;
 import Quack.IQuackBehaviour;
 import Quack.Quack;
 import Quack.Squeek;
-import Quack.MuteQuack
+import Quack.MuteQuack;
 
 public class MainClass {
     public static void main(String[] args) {
