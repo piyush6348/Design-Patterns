@@ -5,5 +5,8 @@ public class MainClass {
     public static void main(String[] args) {
         PizzaFactory chicagoStylePizzaFactory = new ChicagoStylePizzaFactory();
         chicagoStylePizzaFactory.getPizza("Cheese");
+
+        PizzaFactory nyStylePizzaFactory = new NYStylePizzaFactory();
+        nyStylePizzaFactory.getPizza("Cheese");
     }
 }
