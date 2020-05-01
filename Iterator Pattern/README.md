@@ -1,4 +1,4 @@
-# Hollywood Principle
+# Iterator Pattern
 
 ``` 
 It provides a way to access the elements of an aggregate without exposing its underlying representation. 
