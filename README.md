@@ -1,4 +1,4 @@
-# Design-Patterns
+# Design-Patterns and Design Principles
 
 | Behavioural Patterns                                                                                             | Creational Patterns                                                                                                       | Structural Patterns |
 | ---------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: |
@@ -12,3 +12,9 @@
 | [Strategy](https://github.com/piyush6348/Design-Patterns/tree/master/Strategy%20Pattern) |
 | [Template](https://github.com/piyush6348/Design-Patterns/tree/master/Template%20Pattern) |
 | [Visitor](https://github.com/piyush6348/Design-Patterns/tree/master/Visitor%20Pattern) |       
+
+
+| Design principles |
+| ----------------- |
+| [Hollywood Principle](https://github.com/piyush6348/Design-Patterns/tree/master/Design%20Principles/Hollywood%20Principle) |
+| [Single Responsibility Principle](https://github.com/piyush6348/Design-Patterns/tree/master/Design%20Principles/Single%20Responsibility%20Principle) |
