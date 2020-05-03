@@ -1,8 +1,7 @@
 # Design-Patterns using Java
 
 ## Introduction
-This repo contains all design patterns in Java. Every Design pattern contains resources to study as well.
-If someone wants to learn Design patterns I would recommend definitely going for [Head First Design patterns](http://shop.oreilly.com/product/9780596007126.do)
+This repo contains all design patterns in Java. Every Design pattern contains code in Java along with explanation and resources to study as well.
 
 
 | Behavioural Patterns                                                                                             | Creational Patterns                                                                                                       | Structural Patterns |
@@ -25,6 +24,8 @@ If someone wants to learn Design patterns I would recommend definitely going for
 | [Single Responsibility Principle](https://github.com/piyush6348/Design-Patterns/tree/master/Design%20Principles/Single%20Responsibility%20Principle) |
 
 Few other resources I would like to recommend are
+
+- [Head First Design patterns](http://shop.oreilly.com/product/9780596007126.do)
 
 - [Amazing playlist by Christopher Okhravi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 
