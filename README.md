@@ -1,7 +1,7 @@
 # Design-Patterns using Java
 
 ## Introduction
-This repo contains all design patterns in Java. Every Design pattern contains code in Java along with explanation and resources to study as well.
+This repo contains all design patterns from [Head First Design patterns](http://shop.oreilly.com/product/9780596007126.do). Every Design pattern contains code in Java along with explanation and resources to study as well.
 
 
 | Behavioural Patterns                                                                                             | Creational Patterns                                                                                                       | Structural Patterns |
