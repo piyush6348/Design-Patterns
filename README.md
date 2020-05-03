@@ -1,4 +1,10 @@
-### Design-Patterns
+# Design-Patterns using Java
+
+## Introduction
+This repo contains all design patterns in Java. Every Design pattern contains resources to study as well.
+If someone wants to learn Design patterns I would recommend definitely going for [Head First Design patterns](http://shop.oreilly.com/product/9780596007126.do)
+
+
 | Behavioural Patterns                                                                                             | Creational Patterns                                                                                                       | Structural Patterns |
 | ---------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: |
 | [Chain Of Responsibility](https://github.com/piyush6348/Design-Patterns/tree/master/Chain%20of%20Responsibility) | [Factory Method](https://github.com/piyush6348/Design-Patterns/tree/master/Factory%20Patterns/Factory%20Method%20Pattern) | [Adapter](https://github.com/piyush6348/Design-Patterns/tree/master/Adapter%20Pattern) |
@@ -17,3 +23,9 @@
 | ----------------- |
 | [Hollywood Principle](https://github.com/piyush6348/Design-Patterns/tree/master/Design%20Principles/Hollywood%20Principle) |
 | [Single Responsibility Principle](https://github.com/piyush6348/Design-Patterns/tree/master/Design%20Principles/Single%20Responsibility%20Principle) |
+
+Few other resources I would like to recommend are
+
+- [Amazing playlist by Christopher Okhravi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+
+- [Refactoring Guru](https://refactoring.guru/)
