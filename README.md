@@ -1,5 +1,4 @@
-# Design-Patterns and Design Principles
-
+### Design-Patterns
 | Behavioural Patterns                                                                                             | Creational Patterns                                                                                                       | Structural Patterns |
 | ---------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: |
 | [Chain Of Responsibility](https://github.com/piyush6348/Design-Patterns/tree/master/Chain%20of%20Responsibility) | [Factory Method](https://github.com/piyush6348/Design-Patterns/tree/master/Factory%20Patterns/Factory%20Method%20Pattern) | [Adapter](https://github.com/piyush6348/Design-Patterns/tree/master/Adapter%20Pattern) |
