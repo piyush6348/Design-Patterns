@@ -7,7 +7,7 @@ public class Rupee20DispenseChain extends IATMDispenseChain{
             System.out.println("Number of 20 Rs notes are " + String.valueOf(notes));
             this.nextChain.dispense(remainingAmount);
         } else if (amount > 0) {
-            this.nextChain.dispense(amount);
+            nextChain(amount);
         }
     }
 }
