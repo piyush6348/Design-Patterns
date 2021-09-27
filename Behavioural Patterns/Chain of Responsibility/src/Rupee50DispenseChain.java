@@ -7,7 +7,7 @@ public class Rupee50DispenseChain extends IATMDispenseChain{
             System.out.println("Number of 50 Rs notes are " + String.valueOf(notes));
             this.nextChain.dispense(remainingAmount);
         } else if (amount > 0) {
-            this.nextChain.dispense(amount);
+            nextChain(amount);
         }
     }
 }
